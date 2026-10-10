@@ -1,0 +1,231 @@
+{
+    "action": "success",
+    "pageComponents": [
+        {
+            "type": "CustomTiles",
+            "position": 1,
+            "data": {
+                "id": 10444,
+                "name": "Hero_H1_Desk_Party All 9th Oct",
+                "useCase": "Hero",
+                "margins": {"top": 0, "bottom": 20, "horizontal": 16, "titleBottomMargin": 0, "titleHorizontalMargin": 0},
+                "tile_details": [
+                    {
+                        "tileGrid": [
+                            {
+                                "width": 960, "height": 960,
+                                "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/ddb4c127-723e-40bc-a9ae-ba81e0cb9ff7_full.jpg?version=1791460580420",
+                                "isTitleItem": false,
+                                "actionUriWeb": "/products/50282/Party+-+50282",
+                                "action_value": "Party - 50282"
+                            }
+                        ],
+                        "tile_detail_id": 10445
+                    }
+                ]
+            }
+        },
+        {
+            "type": "CustomTiles",
+            "position": 2,
+            "data": {
+                "id": 10368,
+                "name": "Wardrobe_ALL_7th Oct",
+                "useCase": "shop_by_occasion",
+                "margins": {"top": 20, "bottom": 20, "horizontal": 16, "titleBottomMargin": 16, "titleHorizontalMargin": 16},
+                "tile_details": [
+                    {
+                        "tileGrid": [{"width": 960, "height": 53, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/9aecd131-8266-436b-b4ac-4443531faa74_full.jpg?version=1791273178359", "isTitleItem": true}],
+                        "tile_detail_id": 10369
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 240, "height": 368, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/2ea45aff-86eb-4649-b715-504e4957a0fb_full.jpg?version=1791273105120", "isTitleItem": false, "actionUriWeb": "/products/50223/Winter+-+50223", "action_value": "Winter - 50223"},
+                            {"width": 240, "height": 368, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/4d83e4a4-7028-4abc-becf-fbbd8b6cc3a1_full.jpg?version=1791380886869", "isTitleItem": false, "actionUriWeb": "/products/50389/Celebration+Picks+-+50389", "action_value": "Celebration Picks - 50389"},
+                            {"width": 240, "height": 368, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/59c7914f-0788-4b1f-be65-037cfafcfbc5_full.jpg?version=1791273122128", "isTitleItem": false, "actionUriWeb": "/products/49132/Step+Out+-+49132", "action_value": "Step Out - 49132"},
+                            {"width": 240, "height": 368, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/d5ea84fc-55dd-438c-bd43-213594fc5c3c_full.jpg?version=1791273147328", "isTitleItem": false, "actionUriWeb": "/products/49383/Casuals+-+49383", "action_value": "Casuals - 49383"}
+                        ],
+                        "tile_detail_id": 10370
+                    }
+                ]
+            }
+        },
+        {
+            "type": "CustomTiles",
+            "position": 3,
+            "data": {
+                "id": 10426,
+                "name": "Trends_ALL_9th Oct",
+                "useCase": "MT",
+                "margins": {"top": 20, "bottom": 20, "horizontal": 16, "titleBottomMargin": 16, "titleHorizontalMargin": 16},
+                "tile_details": [
+                    {
+                        "tileGrid": [{"width": 960, "height": 53, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/052e75bc-83b1-489f-badf-c03d5e796b51_full.jpg?version=1791272182232", "isTitleItem": true}],
+                        "tile_detail_id": 10427
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 480, "height": 667, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/88d9a45c-5f3f-4eb8-9af8-b65b1882a14e_full.jpg?version=1791466554622", "isTitleItem": false, "actionUriWeb": "/collection/80684/Bestseller+-+80684", "action_value": "Bestseller - 80684"},
+                            {"width": 480, "height": 667, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/45ffcb66-396e-4cd6-acab-3af681e043d6_full.jpg?version=1791466557793", "isTitleItem": false, "actionUriWeb": "/collection/80696/Lowest+Price+Ever+-+80696", "action_value": "Lowest Price Ever - 80696"}
+                        ],
+                        "tile_detail_id": 10428
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 480, "height": 667, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/daea3293-4051-4106-b8d1-36056354e113_full.jpg?version=1791466581014", "isTitleItem": false, "actionUriWeb": "/collection/80692/First+Time+On+Discount+-+80692", "action_value": "First Time On Discount - 80692"},
+                            {"width": 480, "height": 667, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/dd7b5d41-8ed8-4b53-aefa-9835a5b6277d_full.jpg?version=1791466584790", "isTitleItem": false, "actionUriWeb": "/collection/80688/.+-+80688", "action_value": ". - 80688"}
+                        ],
+                        "tile_detail_id": 10429
+                    }
+                ]
+            }
+        },
+        {
+            "type": "CustomTiles",
+            "position": 4,
+            "data": {
+                "id": 10372,
+                "name": "Coupon_Corner_ALL_7th Oct",
+                "useCase": "CMS",
+                "margins": {"top": 20, "bottom": 20, "horizontal": 16, "titleBottomMargin": 16, "titleHorizontalMargin": 16},
+                "tile_details": [
+                    {
+                        "tileGrid": [{"width": 960, "height": 53, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/4dcab10a-0208-43b9-836b-23c91a988dac_full.jpg?version=1791273784950", "isTitleItem": true}],
+                        "tile_detail_id": 10373
+                    },
+                    {
+                        "tileGrid": [{"width": 960, "height": 174, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/5ee70077-bfc1-4a7d-a25c-e82adfdf90d0_full.jpg?version=1791276287060", "isTitleItem": false, "actionUriWeb": "/products/50355/BLFS150+-+50355", "action_value": "BLFS150 - 50355"}],
+                        "tile_detail_id": 10374
+                    },
+                    {
+                        "tileGrid": [{"width": 960, "height": 185, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/9d670459-4e05-4875-825d-a40752db3317_full.jpg?version=1791276322561", "isTitleItem": false, "actionUriWeb": "/collection/80688/.+-+80688", "action_value": ". - 80688"}],
+                        "tile_detail_id": 10375
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 480, "height": 310, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/2d0683db-67ef-443c-afe3-59d127cc47fe_full.jpg?version=1791276340419", "isTitleItem": false, "actionUriWeb": "/products/50359/PARTY125+-+50359", "action_value": "PARTY125 - 50359"},
+                            {"width": 480, "height": 310, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/e9a6a71a-aedf-4d89-a046-95b954356af4_full.jpg?version=1791276348570", "isTitleItem": false, "actionUriWeb": "/products/50363/WINTER125+-+50363", "action_value": "WINTER125 - 50363"}
+                        ],
+                        "tile_detail_id": 10376
+                    }
+                ]
+            }
+        },
+        {
+            "type": "CustomTiles",
+            "position": 5,
+            "data": {
+                "id": 10366,
+                "name": "Category Tree_All_Girl_7th Oct",
+                "useCase": "category_tree",
+                "margins": {"top": 20, "bottom": 20, "horizontal": 16, "titleBottomMargin": 16, "titleHorizontalMargin": 16},
+                "tile_details": [
+                    {
+                        "tileGrid": [{"width": 960, "height": 53, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/35bd43d5-638c-434f-9dbd-0b3063912417_full.jpg?version=1791272791429", "isTitleItem": true}],
+                        "tile_detail_id": 10367
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/5334c424-334a-4dec-a90b-a2c92dffdff3_full.jpg?version=1791272803533", "isTitleItem": false, "actionUriWeb": "/products/50235/Sweatshirts+and+Sweaters+-+50235", "action_value": "Sweatshirts and Sweaters - 50235"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/61c0efff-b26f-40f0-bdc1-44d2aa00fa45_full.jpg?version=1791272608840", "isTitleItem": false, "actionUriWeb": "/products/50236/Jackets+and+Coats+-+50236", "action_value": "Jackets and Coats - 50236"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/f2dd5a6d-fcad-4c9e-b379-e43b71436695_full.jpg?version=1791371267399", "isTitleItem": false, "actionUriWeb": "/products/49709/Party+Dresses+-+49709", "action_value": "Party Dresses - 49709"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/bb3d502a-a54f-448b-96b7-d5f048860cc2_full.jpg?version=1791370569430", "isTitleItem": false, "actionUriWeb": "/products/48041/Casual+Dresses+-+48041", "action_value": "Casual Dresses - 48041"}
+                        ],
+                        "tile_detail_id": 10368
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 240, "height": 290, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/db866d02-5294-4cec-a85d-bb3e85ad4756_full.jpg?version=1791272645657", "isTitleItem": false, "actionUriWeb": "/products/50280/Jeans+pants+and+Jogger+Sets+-+50280", "action_value": "Jeans pants and Jogger Sets - 50280"},
+                            {"width": 240, "height": 290, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/f8b67aac-7206-447b-ba3b-4edfa3a085ec_full.jpg?version=1791272650357", "isTitleItem": false, "actionUriWeb": "/products/50042/Shorts+Skirt+Sets+-+50042", "action_value": "Shorts Skirt Sets - 50042"},
+                            {"width": 240, "height": 290, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/816d1a5c-e460-41c4-9cae-c9e61c53a115_full.jpg?version=1791272677907", "isTitleItem": false, "actionUriWeb": "/products/50044/Onesies+-+50044", "action_value": "Onesies - 50044"},
+                            {"width": 240, "height": 290, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/ff4c089a-e416-48d1-98aa-876e694ee0e2_full.jpg?version=1791272660945", "isTitleItem": false, "actionUriWeb": "/products/47082/Footwear+-+47082", "action_value": "Footwear - 47082"}
+                        ],
+                        "tile_detail_id": 10369
+                    }
+                ]
+            }
+        },
+        {
+            "type": "CustomTiles",
+            "position": 6,
+            "data": {
+                "id": 10365,
+                "name": "Category Tree_All_Boy 7th Oct",
+                "useCase": "category_tree",
+                "margins": {"top": 20, "bottom": 20, "horizontal": 16, "titleBottomMargin": 16, "titleHorizontalMargin": 16},
+                "tile_details": [
+                    {
+                        "tileGrid": [{"width": 960, "height": 53, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/e7a2f340-cf72-4a87-bfa6-c9e7bec28de2_full.jpg?version=1791272490132", "isTitleItem": true}],
+                        "tile_detail_id": 10366
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/0867e2c4-811a-46d9-8b08-2cc3476426c0_full.jpg?version=1791357079581", "isTitleItem": false, "actionUriWeb": "/products/50238/Sweaters+and+Sweatshirts+-+50238", "action_value": "Sweaters and Sweatshirts - 50238"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/728970ef-52ad-4108-a436-fdec4aecc687_full.jpg?version=1791357084017", "isTitleItem": false, "actionUriWeb": "/products/50237/Jackets+and+Coats+-+50237", "action_value": "Jackets and Coats - 50237"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/8df134e4-4f3a-4980-93f2-c52a0159deaa_full.jpg?version=1791371469624", "isTitleItem": false, "actionUriWeb": "/products/47700/Formal+Sets+-+47700", "action_value": "Formal Sets - 47700"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/f2187aea-8116-4fe9-8fbf-b7ebe6136099_full.jpg?version=1791357093403", "isTitleItem": false, "actionUriWeb": "/products/50315/Jeans+Pant+and+jogger+Sets+-+50315", "action_value": "Jeans Pant and jogger Sets - 50315"}
+                        ],
+                        "tile_detail_id": 10367
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/9deee4bf-8543-436f-83b6-d325bef3e992_full.jpg?version=1791357102865", "isTitleItem": false, "actionUriWeb": "/products/48999/Short+Sets+-+48999", "action_value": "Short Sets - 48999"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/f3cac9eb-434a-456a-9637-a7e9a10d9fb0_full.jpg?version=1791357106705", "isTitleItem": false, "actionUriWeb": "/products/50316/Tops+and+Bottoms+-+50316", "action_value": "Tops and Bottoms - 50316"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/afed6cf8-f9f5-4cb2-834e-bac89ed2a35d_full.jpg?version=1791357109889", "isTitleItem": false, "actionUriWeb": "/products/47080/Onesies+-+47080", "action_value": "Onesies - 47080"},
+                            {"width": 240, "height": 297, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/7c75cbc9-191b-4d61-b0d3-c30c7421aeb2_full.jpg?version=1791357114175", "isTitleItem": false, "actionUriWeb": "/products/47079/Footwear+-+47079", "action_value": "Footwear - 47079"}
+                        ],
+                        "tile_detail_id": 10368
+                    }
+                ]
+            }
+        },
+        {
+            "type": "CustomTiles",
+            "position": 7,
+            "data": {
+                "id": 10370,
+                "name": "Cant Miss Steals_All_7th Oct",
+                "useCase": "CMS",
+                "margins": {"top": 20, "bottom": 20, "horizontal": 16, "titleBottomMargin": 16, "titleHorizontalMargin": 16},
+                "tile_details": [
+                    {
+                        "tileGrid": [{"width": 960, "height": 53, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/68147730-fbf0-420d-a1f6-431fa89c64b4_full.jpg?version=1791273461467", "isTitleItem": true}],
+                        "tile_detail_id": 10371
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 320, "height": 308, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/12d6afac-2b52-47da-980b-ff7cffbc2bb7_full.jpg?version=1791273477126", "isTitleItem": false, "actionUriWeb": "/products/49242/Upto+40+Percent+-+49242", "action_value": "Upto 40 Percent - 49242"},
+                            {"width": 320, "height": 308, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/886bdbdf-e391-4639-9457-76229451e082_full.jpg?version=1791273495672", "isTitleItem": false, "actionUriWeb": "/products/49243/Upto+50+Percent+Off+-+49243", "action_value": "Upto 50 Percent Off - 49243"},
+                            {"width": 320, "height": 308, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202610/98df721e-a44b-4885-b164-fb5227245a3a_full.jpg?version=1791273509724", "isTitleItem": false, "actionUriWeb": "/products/49244/Upto+60+Percent+Off+-+49244", "action_value": "Upto 60 Percent Off - 49244"}
+                        ],
+                        "tile_detail_id": 10372
+                    }
+                ]
+            }
+        },
+        {
+            "type": "CustomTiles",
+            "position": 8,
+            "data": {
+                "id": 3512,
+                "name": "Shop_For_All_29th May",
+                "useCase": "explore_more",
+                "margins": {"top": 20, "bottom": 20, "horizontal": 16, "titleBottomMargin": 16, "titleHorizontalMargin": 16},
+                "tile_details": [
+                    {
+                        "tileGrid": [{"width": 960, "height": 53, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202603/8a4d07ed-c038-4e08-a74f-b1d7bc894a27_full.jpg?version=1773600370975", "isTitleItem": true}],
+                        "tile_detail_id": 3513
+                    },
+                    {
+                        "tileGrid": [
+                            {"width": 320, "height": 357, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202603/56aaac95-3af8-412f-8372-91c0dfc2e8a6_full.jpg?version=1773831302986", "isTitleItem": false, "actionUriWeb": "/products/44612/Explore+more+for+Baby+-+44612", "action_value": "Explore more for Baby - 44612"},
+                            {"width": 320, "height": 357, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202603/3369f39d-5329-4554-ac85-3df5d664108a_full.jpg?version=1773831306281", "isTitleItem": false, "actionUriWeb": "/products/33964/Explore+More+for+Her+-+33964", "action_value": "Explore More for Her - 33964"},
+                            {"width": 320, "height": 357, "imageUrl": "https://static.hopscotch.in/fstatic/boutique/banner/202603/61dd8557-cc67-4d03-937c-e76a5c8f2a1a_full.jpg?version=1773831315472", "isTitleItem": false, "actionUriWeb": "/products/33963/Explore+More+for+Him+-+33963", "action_value": "Explore More for Him - 33963"}
+                        ],
+                        "tile_detail_id": 3514
+                    }
+                ]
+            }
+        }
+    ]
+}
